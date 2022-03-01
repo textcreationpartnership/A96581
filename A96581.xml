@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Their Majesties commission for the rebuilding of the cathedral church of S. Paul in London</title>
+            <author>England and Wales. Sovereign (1689-1694 : William and Mary)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96581</idno>
+            <idno type="STC">Wing W2498C</idno>
+            <idno type="STC">ESTC R42915</idno>
+            <idno type="EEBO-CITATION">38875937</idno>
+            <idno type="OCLC">ocm 38875937</idno>
+            <idno type="VID">152513</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152513)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2299:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Their Majesties commission for the rebuilding of the cathedral church of S. Paul in London</title>
+                  <author>England and Wales. Sovereign (1689-1694 : William and Mary)</author>
+                  <author>Mary II, Queen of England, 1662-1694.</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>17 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benj. Motte,</publisher>
+                  <pubPlace>London,</pubPlace>
+                  <date>M DC XC II [1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>St. Paul's Cathedral (London, England)</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152513:1"/>
+            <!-- PDF PAGE 88 -->
+            <p>Their Majeſties COMMISSION FOR THE REBUILDING OF THE <hi>Cathedral Church</hi> OF S. PAUL In <hi>LONDON.</hi>
+            </p>
+            <figure>
+               <head>W R</head>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+               <figDesc>royal English blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Benj. Motte.</hi> MDCXCII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="commission">
+            <pb facs="tcp:152513:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 89 -->
+            <pb n="3" facs="tcp:152513:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 89 -->
+            <head>Their Majeſties COMMISSION.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>ILLIAM</hi> and <hi>MARY</hi> by the Grace of God King and Queen of <hi>England, Scotland, France,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> Defenders of the Faith, <hi>&amp;c.</hi> To our Truſty and well beloved Sir <hi>Thomas Stamp</hi> Knt. Lord Mayor of our <hi>City</hi> of <hi>London,</hi> and the Lord Mayor of our ſaid <hi>City</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> for the time being;</p>
+            <p>The moſt Reverend Father in God, <hi>John</hi> Lord Archbiſhop of <hi>Canterbury,</hi> Primate of all <hi>England,</hi> and Metropolitan, and the Lord Archbiſhop of <hi>Canterbury</hi> for the time being;</p>
+            <p>The moſt Reverend Father in God <hi>John</hi> Lord Archbiſhop of <hi>York,</hi> Primate and Metropolitan of <hi>England,</hi> and the Lord Archbiſhop of <hi>York,</hi> for the time being;</p>
+            <p>The Right Reverend Fathers in God, <hi>Henry</hi> Lord Biſhop of <hi>London, Thomas</hi> Lord Biſhop of <hi>Rocheſter, Edward</hi> Lord
+<pb n="4" facs="tcp:152513:3"/>
+               <!-- PDF PAGE 90 -->Biſhop of <hi>Worceſter, Simon</hi> Lord Biſhop of <hi>Ely, Thomas</hi> Lord Biſhop of <hi>Lincoln,</hi> and the Biſhops of <hi>London, Rocheſter, Worceſter, Ely,</hi> and <hi>Lincoln,</hi> for the time being;</p>
+            <p>Our Truſty and well beloved Sir <hi>John Somers</hi> Knight, Our Attorney General, and <hi>Thomas Trevor</hi> 
+               <abbr>Eſq</abbr> Our Sollicitor General, and Our Attorney General and Sollicitor General, for the time being;</p>
+            <p>Sir <hi>Thomas Meres</hi> Knight;</p>
+            <p>
+               <hi>George Oxenden</hi> Doctor of Laws, Princi<g ref="char:EOLhyphen"/>pal Official of the Arches Court of <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> and Vicar General to the Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Canterbury</hi>'s Court, and the Prin<g ref="char:EOLhyphen"/>cipal Official of the Arches Court of <hi>Can<g ref="char:EOLhyphen"/>terbury</hi> and Vicar General to the Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Canterbury</hi>'s Court, for the time being;</p>
+            <p>Sir <hi>Charles Hedges</hi> Knight, Doctor of Laws, and Judge of Our High Court of Admiralty of <hi>England,</hi> and the Judge of Our High Court of Admiralty of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> for the time being;</p>
+            <p>Sir <hi>Richard Raines</hi> Knight, Doctor of Laws, Judge of the Prerogative Court of <hi>Canterbury</hi> and the Judge of the Preroga<g ref="char:EOLhyphen"/>tive Court of <hi>Canterbury</hi> for the time being;</p>
+            <pb n="5" facs="tcp:152513:3"/>
+            <!-- PDF PAGE 90 -->
+            <p>Sir <hi>Thomas Pinfold,</hi> Knight, Doctor of Laws, Our Advocate General, and Our Advocate General for the time being;</p>
+            <p>
+               <hi>Henry Newton,</hi> Doctor of Laws and Chancellour of the Dioceſe of <hi>London,</hi> and the Chancellour of the Dioceſe of <hi>London</hi> for the time being;</p>
+            <p>Sir <hi>William Aſhurſt,</hi> Sir <hi>Richard Levett,</hi> Knights, Sheriffs of our City of <hi>London,</hi> and the Sheriffs of our ſaid City for the time being;</p>
+            <p>
+               <hi>William Sherlock,</hi> Doctor in Divinity, Dean of the Cathedral Church of St. <hi>Paul, London, William Holder,</hi> Doctor in Divinity, <hi>Henry Godolphin,</hi> Doctor in Divi<g ref="char:EOLhyphen"/>nity, <hi>William Stanley,</hi> Doctor in Divinity; Reſidentiaries of the ſaid Cathedral Church, and the Dean and Reſidentiaries of the ſaid Cathedral Church for the time being;</p>
+            <p>Sir <hi>Chriſtopher Wren,</hi> Knt. Surveyor Ge<g ref="char:EOLhyphen"/>neral of our Works, and the Surveyor General of our Works for the time being;</p>
+            <p>Sir <hi>William Trumball,</hi> Sir <hi>Thomas St. George,</hi> and Sir <hi>Henry St. George,</hi> Knts. Greeting.</p>
+            <p>Whereas our late Royal Uncle King <hi>Charles</hi> II. of bleſſed Memory, was Gra<g ref="char:EOLhyphen"/>ciouſly pleas'd out of his Pious and good
+<pb n="6" facs="tcp:152513:4"/>
+               <!-- PDF PAGE 91 -->Intentions towards the Rebuilding of the Cathedral Church of S. <hi>Paul,</hi> in <hi>London,</hi> to Conſtitute and Appoint ſeveral Lords Spiritual and Temporal, and other Per<g ref="char:EOLhyphen"/>ſons of known Worth and Integrity, Commiſſioners in the Commiſſion under the Great Seal of <hi>England,</hi> bearing Date the Twelfth Day of <hi>November, Anno Domini,</hi> One Thouſand Six Hundred Seventy and Three: The like Commiſſi<g ref="char:EOLhyphen"/>on was alſo Granted by the late King <hi>James</hi> the Second, under the Great Seal of <hi>England,</hi> bearing Date the Two and Twentieth Day of <hi>January,</hi> in the Firſt Year of his Reign: ſince which time a conſiderable Progreſs hath been made in the ſaid Building.</p>
+            <p>Now to the Intent ſo good and great a Work may be Effectually carried on, We are Graciouſly pleas'd to renew the ſaid Commiſſion, and have Nominated, Conſtituted, and Appointed, and by theſe Preſents do Nominate, Conſtitute, and Appoint You, to be Our Commiſ<g ref="char:EOLhyphen"/>ſioners for Carrying on, Finiſhing, and Adorning of the ſaid Cathedral Church of S. <hi>Paul, London.</hi>
+            </p>
+            <p>And We do by theſe Preſents give full Power and Authority to you, our
+<pb n="7" facs="tcp:152513:4"/>
+               <!-- PDF PAGE 91 -->ſaid Commiſſioners or any ſix or more of you, whereof the Lord Biſhop of <hi>London,</hi> or the Dean of St. <hi>Pauls</hi> for the time being to be one, to demoliſh and take down what is yet remaining of the old Fabrick, and carry on the new Work, or ſuch part or portion of it, and in ſuch Order and Method, and by ſuch Ways and Means, and according to ſuch Rules and Directions as to you ſhall ſeem beſt; and to call to your Aid and Aſſiſtance, ſuch skilful Artiſts, Officers and Work<g ref="char:EOLhyphen"/>men as ye ſhall think fit, and to appoint each of them his ſeveral Charge and Em<g ref="char:EOLhyphen"/>ployment; to miniſter to ſuch Artiſts and Officers, and to all and every other perſon and perſons to be imployed in the ſaid Service, to whom you ſhall think meet, ſuch Oath or Oaths for the due per<g ref="char:EOLhyphen"/>formance of their ſeveral Duties, Employ<g ref="char:EOLhyphen"/>ments, Offices, Charges and Truſts to them or any of them to be committed, as ſhall by you be thought reaſonable and convenient; and out of ſuch Money as ſhall be received for this Work, to allow to them, and every of them, ſuch Sala<g ref="char:EOLhyphen"/>ries, Wages, and Rewards reſpectively as to you ſhall ſeem fitting and proportio<g ref="char:EOLhyphen"/>nable to their Employment, and the
+<pb n="8" facs="tcp:152513:5"/>
+               <!-- PDF PAGE 92 -->Service they ſhall do; and to Conſider, Adviſe, and Agree of, and ſet down particular Orders and Inſtructions, as well for the ſafe, and well keeping, both of the Mony from time to time, brought into the Treaſury, and of the Materials and Proviſions to be from time to time brought into the Stores; and alſo for the faithful and frugal iſſuing out and diſpo<g ref="char:EOLhyphen"/>ſing of the ſame, for the Publick Uſe intended, and no other; and to direct and appoint by whom, and in what man<g ref="char:EOLhyphen"/>ner the Books and Accompts of both ſhall be from time to time kept, control<g ref="char:EOLhyphen"/>ed, audited, and tranſcribed, and certi<g ref="char:EOLhyphen"/>fied; and to put ſuch a Cheque upon the Receipt and iſſuing out of both, as you ſhall judg neceſſary; And out of your ſelves, and ſuch other Perſons of known Ability and Integrity, as you ſhall chooſe from time to time, and as oft as you ſhall judge it Expedient, to appoint, conſtitute, and make, ſuch and ſo many Sub-Committees as you ſhall think meet, for the better managing and carrying on of this whole Work; and to inveſt them with ſuch powers purſuant to the Authorities hereby given, as ſhall be re<g ref="char:EOLhyphen"/>quiſite; and to revoke, annul, and de<g ref="char:EOLhyphen"/>termine
+<pb n="9" facs="tcp:152513:5"/>
+               <!-- PDF PAGE 92 -->the ſame; and to revive, and make new the ſaid Sub-Committees, or any others, when, and as often as you ſhall find it needful and conducing to the Service; and Adviſe, Treat, and Conſi<g ref="char:EOLhyphen"/>der of all other things, ways, and means for the better Advancement and Furtherance of this Great and Excel<g ref="char:EOLhyphen"/>lent Work, and to the finiſhing and perfecting the ſame, and to put the ſaid ways and means in due and ſpeedy Execution; and finally to Conſult of, and Frame meet Orders, Ordinances, and Conſtitutions, for the better preſer<g ref="char:EOLhyphen"/>vation and maintenance of the ſaid Ca<g ref="char:EOLhyphen"/>thedral Church in time to come, and for preventing and ſuppreſſing of all preſent and future Annoyances and Purpreſtures, and Encroachments, which do, ſhall, or may any way tend to the Damage or Hurt, Blemiſhing or Diſgrace of the ſame; And the ſaid Orders, Ordinances, and Conſtitutions being reduced into Writing, to preſent to Us; to the end the ſame being by Us peruſed and conſidered of, may re<g ref="char:EOLhyphen"/>ceive Our Royal Approbation and Al<g ref="char:EOLhyphen"/>lowance, with ſuch further Orders from Us for the ſtrengthning the ſame by
+<pb n="10" facs="tcp:152513:6"/>
+               <!-- PDF PAGE 93 -->Our Royal Signature, or under Our Great Seal of <hi>England,</hi> or otherwiſe as We ſhall find meet, that ſo they may be put in due Execution accordingly.</p>
+            <p>Now, foraſmuch as it appears to us, that a Conſiderable Sum hath already been expended upon the ſaid Work, and that the ſame is very well advanced; leſt after ſo great an Expence, there ſhould be any obſtruction in ſo good a a Work, We do further hereby give and grant unto you the ſaid <hi>Henry</hi> Lord Biſhop of <hi>London,</hi> and to the Biſhop of that See for the time being, and to you the preſent Dean and others Reſi<g ref="char:EOLhyphen"/>dentiaries of Our ſaid Cathedral Church, and to your Succeſſors, the Dean and others Reſidentiaries thereof for the time being, full Power and Authority to Receive and Take the free and vo<g ref="char:EOLhyphen"/>luntary Contributions of all Perſons whatſoever as ſhall willingly Contri<g ref="char:EOLhyphen"/>bute to the ſaid Work, and to Con<g ref="char:EOLhyphen"/>ſtitute and Appoint ſuch other Perſon or Perſons, as you or any Three or more of you (whereof the Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>London,</hi> or the Dean of S. <hi>Pauls</hi> to be one) ſhall think moſt ready, to aſſiſt in Gathering and Receiving the
+<pb n="11" facs="tcp:152513:6"/>
+               <!-- PDF PAGE 93 -->ſaid Contributions; and alſo to provide and keep Books or Regiſters, ſuch as have been formerly kept upon the like occaſion, to take the ſaid Subſcriptions.</p>
+            <p>All which Moneys already ſo ſub<g ref="char:EOLhyphen"/>ſcribed or given, raiſed, collected, or received, or which ſhall hereafter be given, collected or received, as alſo ſuch Money as ſhall become due and payable by vertue of a late Act of Par<g ref="char:EOLhyphen"/>liament, by an Impoſition upon Coals, and ſhall be iſſued out by Warrant un<g ref="char:EOLhyphen"/>der the Hands and Seals of the Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Canterbury,</hi> the Biſhop of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and the Lord Mayor of <hi>London</hi> for the time being, or any two of them, for the uſe of the ſaid Cathedral Church according to the ſaid Act, ſhall be paid to ſuch Perſon or Perſons as by any ſix or more of you Our ſaid Commiſſioners (whereof the Lord Biſhop of <hi>London,</hi> or the Dean of S. <hi>Pauls</hi> for the time be<g ref="char:EOLhyphen"/>ing, to be one) ſhall be from time to time choſen and appointed to Receive the ſame, and to give Acquittances and Diſcharges for it to ſuch Perſon or Per<g ref="char:EOLhyphen"/>ſons as ſhall pay it as aforeſaid.</p>
+            <p>And for the further eaſing and de<g ref="char:EOLhyphen"/>fraying of ſo vaſt an Expence as this
+<pb n="12" facs="tcp:152513:7"/>
+               <!-- PDF PAGE 94 -->Work ſhall require, and in order to the better Recovery, and Preſervation of whatſoever hath or ſhall be given, or intended to be given, purchaſed or provided for that purpoſe, being very deſirous that a true and perfect diſcovery may be made, as well of all ſuch Legacies, Bequeſts, Gifts both of Lands and Sums of Money, or other Profits, as have been at any time heretofore, or hereafter ſhall be given, ſubſcribed, or intended for the Rebuilding, Maintaining, Repairing or Adorning of the ſaid Church; as alſo of all Materials, Inſtruments or Uten<g ref="char:EOLhyphen"/>ſils at any time purchaſed or prepared for that Work, but Fraudulently and Sa<g ref="char:EOLhyphen"/>crilegiouſly conceal'd, detain'd, or con<g ref="char:EOLhyphen"/>verted to private uſe and advantage: We do by theſe Preſents, give and grant unto you, or any ſix or more of you (whereof the Lord Biſhop of <hi>London,</hi> or the Dean of S. <hi>Pauls</hi> for the time being to be one) full Power and Authority, as well by the Oath of Honeſt and Lawful Men, as by the Examination of Witneſſes upon their Oaths (which ſaid Oaths both to Jurors and Witneſſes, you or any ſix or more of you, as aforeſaid,
+<pb n="13" facs="tcp:152513:7"/>
+               <!-- PDF PAGE 94 -->are hereby Authoriſed to adminiſter) or without Oath, and by all other Ways and Means whatſoever, from time to time to inquire and examine as well of and concerning all and every Sum and Sums of Money, or other Gifts whatſoever, which heretofore have, or hereafter ſhall be given, bequeathed, ſubſcribed, advanced, raiſed, collected or received for or towards the Repara<g ref="char:EOLhyphen"/>tion or Rebuilding of the ſaid Cathedral Church, or for Beautifying or Adorn<g ref="char:EOLhyphen"/>ing thereof, or for providing of any In<g ref="char:EOLhyphen"/>ſtruments, Utenſils or Ornaments for the ſame, and touching the Payment and Imployment thereof, and what re<g ref="char:EOLhyphen"/>mains yet unpaid or unaccounted for, and in whoſe Hands; as alſo of and con<g ref="char:EOLhyphen"/>cerning all and every the Materials and Utenſils at any time provided for the Repairing or Rebuilding of the ſaid Church, or any belonging to the ſame, or of the particular value thereof, and how, and by whom the ſame, or any part thereof, hath been taken away, diſ<g ref="char:EOLhyphen"/>poſed, conveyed and employed other<g ref="char:EOLhyphen"/>wiſe than to the uſe intended; and to ſend for, and Convene, and Cauſe to come before you all ſuch Farmers, Tenants,
+<pb n="14" facs="tcp:152513:8"/>
+               <!-- PDF PAGE 95 -->Truſtees, Treaſurers, Receivers, Ac<g ref="char:EOLhyphen"/>countants, Clerks, and other Officers and Miniſters, Parties and Witneſſes whatſoever, which are any way con<g ref="char:EOLhyphen"/>cern'd, or can give Teſtimony touch<g ref="char:EOLhyphen"/>ing the Premiſſes, and which you ſhall think neceſſary to call before you, and to Examine them ſeverally upon their Oaths, and to Cauſe all and every Per<g ref="char:EOLhyphen"/>ſon and Perſons whom you ſhall think good from time to time, to bring and ſhew before you, either upon Oath or without Oath, all and ſingular ſuch Books and Records, Regiſters, Surveys, Accounts, Evidences, and other Notes and Writings any way relating to the Premiſſes, and remaining in their Hands as you ſhall think fit to be produced, whereby the truth of the Premiſſes may the better and more plainly be found out and diſcovered, and to let you have uſe and peruſal of the ſame.</p>
+            <p>And for your eaſe and better Expe<g ref="char:EOLhyphen"/>dition in the Execution of this part of Our Commiſſion, Our Will and Plea<g ref="char:EOLhyphen"/>ſure is; And we do hereby Charge and Command, that all ſuch Surveyors, Actuaries, Regiſters, Officers and Mi<g ref="char:EOLhyphen"/>niſters whatſoever, which you or any
+<pb n="15" facs="tcp:152513:8"/>
+               <!-- PDF PAGE 95 -->ſix or more of you, as aforeſaid, ſhall think fit and require, ſhall be ready and attendant upon you or any ſix or more of you, for the doing and performing any thing neceſſary and expedient to be done in the Execution of this Our Commiſſion.</p>
+            <p>And we do hereby Require and Com<g ref="char:EOLhyphen"/>mand all Sheriffs, Juſtices of the Peace, Conſtables, Bayliffs, and all other Our Officers, Miniſters, and Loving Subjects whatſoever, upon any Warrant or Pre<g ref="char:EOLhyphen"/>cept to be iſſued from you, Our ſaid Commiſſioners, or any ſix or more of of you, as aforeſaid, to Return Jurors, ſerve Orders and Summons, and be aid<g ref="char:EOLhyphen"/>ing and aſſiſting in all things tending to the effectual Execution of the ſaid Commiſſion: And we do hereby Au<g ref="char:EOLhyphen"/>thoriſe you, or any ſix or more of you as aforeſaid, to demand and call for, and Order to be paid into the Hands of the Receiver or Receivers ſo appointed, as aforeſaid, all ſuch Sum and Sums of Mo<g ref="char:EOLhyphen"/>ny as by the Means and Methods, and in any of the Caſes aforeſaid, now are, or hereafter ſhall be found to be remain<g ref="char:EOLhyphen"/>ing in the Hands of, or due and pay<g ref="char:EOLhyphen"/>able by, or Chargeable upon any Per<g ref="char:EOLhyphen"/>ſon
+<pb n="16" facs="tcp:152513:9"/>
+               <!-- PDF PAGE 96 -->or Perſons whatſoever, with Dama<g ref="char:EOLhyphen"/>ges for the ſame; or ſuch Compoſitions either of Principal or Damages as you ſhall think fit to be made therein; and in default of payment, to inform Us and our Council of ſuch Perſon or Per<g ref="char:EOLhyphen"/>ſons ſo found to be Indebted, which ſhall in Contempt of this Our Commiſ<g ref="char:EOLhyphen"/>ſion, refuſe to pay the ſaid Debts. And out of ſuch Mony as ſhall be diſcovered, recovered, and received, to allow fit<g ref="char:EOLhyphen"/>ting and proportionable Salaries, Gra<g ref="char:EOLhyphen"/>tuities and Rewards to ſuch Clerks, Meſ<g ref="char:EOLhyphen"/>ſengers, and others who ſhall any ways advance the ſaid Service, or be imploy'd in diſcovery or getting in the ſaid Mo<g ref="char:EOLhyphen"/>neys.</p>
+            <p>And laſtly, Our Pleaſure is, That this Commiſſion ſhall continue in force; And, We do hereby Authoriſe you Our ſaid Commiſſioners, or any ſix or more of you (whereof the Lord Biſhop of <hi>London,</hi> or the Dean of S. <hi>Pauls</hi> for the time being, to be one) to proceed in the Execution thereof, and of all and every the Matters and Things therein contained from time to time, as often as you or any ſix or more of you (where<g ref="char:EOLhyphen"/>of the ſaid Biſhop, or the ſaid Dean for
+<pb n="17" facs="tcp:152513:9"/>
+               <!-- PDF PAGE 96 -->the time being, to be always one) ſhall think convenient, although the ſaid Commiſſion be not continued from time to time by Adjournment. And for doing of all this, and for uſing and exerciſing all and every the Powers above herein granted, or mentioned to be granted, in ſuch manner as is above directed, theſe Preſents ſhall be unto you, and unto every of you, and to all other Perſons Employed therein, a ſufficient Warrant and Diſcharge. In Witneſs whereof We have cauſed theſe Our Letters to be made Patents.</p>
+            <closer>
+               <dateline>
+                  <hi>Witneſs Our Selves at</hi> Weſtminſter, <date>
+                     <hi>the Third day of</hi> June, <hi>in the Fourth year of Our Reign.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>PER BREVE DE PRIVATO SIGILLO.</hi>
+Chute.</signed>
+            </closer>
+            <trailer>
+               <hi>God ſave the</hi> King <hi>and</hi> Queen.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
